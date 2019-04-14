@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+	<channel>
+		<title>Mi RSS</title>
+		<link>https://raw.githubusercontent.com/jinguti/AlvaroPrueba/master/web</link>
+		<description>Noticias de actualidad.</description>
+			<item>
+				<title>Política</title>
+				<link>https://elpais.com/politica/</link>
+				<description>Noticias de política en El País.</description>
+				<guid>https://elpais.com/politica/</guid>
+			</item>
+
+			<item>
+				<title>Economía</title>
+				<link>https://elpais.com/economia/</link>
+				<description>Noticias de economía en El País.</description>
+				<guid>https://elpais.com/economia/</guid>
+			</item>
+
+			<item>
+				<title>Sociedad</title>
+				<link>https://elpais.com/sociedad/</link>
+				<description>Noticias de sociedad en El País.</description>
+				<guid>https://elpais.com/sociedad/</guid>
+			</item>
+
+			<item>
+				<title>Deportes</title>
+				<link>https://www.marca.com/</link>
+				<description>Los deportes en Marca.</description>
+				<guid>https://www.marca.com/</guid>
+			</item>
+		
+			<item>
+				<title>Internacional</title>
+				<link>https://elpais.com/internacional/</link>
+				<description>Noticias del extranjero.</description>
+				<guid>https://elpais.com/internacional/</guid>
+			</item>
+
+	</channel>
+</rss>
