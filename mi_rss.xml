@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Mi RSS</title>
-		<link>https://raw.githubusercontent.com/jinguti/AlvaroPrueba/master/web</link>
+		<link>https://github.com/jinguti/AlvaroPrueba/blob/master/web</link>
 		<description>Noticias de actualidad.</description>
 			<item>
 				<title>Política</title>
