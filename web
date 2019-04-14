@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+    	<title>Ejercicio 8</title>
+   	    <meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+    </head>
+    <body>
+       	<h1>Formulario de Alumno - PAC01</h1>
+  		<form action="" method="get">
+
+  			<!--Nombre, apellidos, sexo, correo-->
+		<p>Nombre: <input type="text" maxlength="40" name="nombre" size="23"></p>
+		<p>Apellidos: <input type="text" maxlength="40" name="apellidos" size="23"></p>
+		<p>Sexo:
+		<input type="radio" name="sexo" value="hombre"> hombre
+		<input type="radio" name="sexo" value="mujer"> mujer
+		</p>
+		<p>Correo: <input type="text" maxlength="40" name="direccion" size="23"></p>
+
+  			<!--Checkbox, el primero con atributo checked-->
+		<P>
+		<label><input type="checkbox" id="checkbox1" value="checkbox1"checked> Declaro mi intención aprobar esta PAC </label>
+		<br/>
+		<input type="checkbox" id="checkbox2" value="checkbox2"> <label for="checkbox2"> Confirmo que no he realizado ninguna copia y que el código es completamente propio.</label>
+ 		</P>
+
+  		<p>
+  		<input type="submit" value="Enviar">
+  		</p>
+  		
+		</form>
+
+	    <a href="mi_rss">Mi canal de rss</a>
+  	</body>
+</html>
