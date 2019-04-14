@@ -23,3 +23,5 @@
     <titulo>Deportes</titulo>
 	<descripcion>Los deportes en Marca.</descripcion>
 </articulo>
+
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//github.com/jinguti/AlvaroPrueba/commits/master.atom"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
