@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Articulo>
+    <titulo>Economía</titulo>
+	<descripcion>Noticias de economía en El País.</descripcion>
+</articulo>
+
+<Articulo>
+    <titulo>Internacional</titulo>
+	<descripcion>Noticias del extranjero.</descripcion>
+</articulo>
+
+<Articulo>
+    <titulo>Política</titulo>
+	<descripcion>Noticias de política en El País.</descripcion>
+</articulo>
+
+<Articulo>
+    <titulo>Sociedad</titulo>
+	<descripcion>Noticias de sociedad en El País.</descripcion>
+</articulo>
+
+<Articulo>
+    <titulo>Deportes</titulo>
+	<descripcion>Los deportes en Marca.</descripcion>
+</articulo>
