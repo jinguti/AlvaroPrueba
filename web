@@ -3,6 +3,7 @@
     <head>
     	<title>Ejercicio 8</title>
    	    <meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+	    <a href="mi_rss">Mi canal de rss</a>
     </head>
     <body>
        	<h1>Formulario de Alumno - PAC01</h1>
@@ -30,6 +31,6 @@
   		
 		</form>
 
-	    <a href="mi_rss">Mi canal de rss</a>
+	    
   	</body>
 </html>
